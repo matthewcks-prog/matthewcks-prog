@@ -9,7 +9,7 @@ I’m a Software Engineering student from Monash University in Melbourne. I buil
 A study-focused browser extension + backend services (auth, notes, chat/AI features) designed with production-quality patterns.
 - **Focus:** architecture, reliability, security/privacy, UX
 - **Tech:** TypeScript, React, Node.js, Postgres/Supabase, CI/CD
-- Repo: https://github.com/matthewcks-prog/Lock-in-Tech
+- Repo: <https://github.com/matthewcks-prog/Lock-in>
 - Docs: <LINK>
 - Demo: <LINK OR GIF>
 
@@ -21,7 +21,7 @@ Code Venture, learning platform with role-based access and progress tracking.
 
 ### 📊 Data / Cloud Projects
 - Data Visualisation project in Tableu
-- Repo: <LINK>
+- Repo: <https://github.com/matthewcks-prog/data-viz-vega-lite>
 
 ## Skills (with proof)
 - **Frontend (UI/UX):** React, TypeScript → see: Lock-in UI, dashboards
