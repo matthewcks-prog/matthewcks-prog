@@ -6,7 +6,7 @@ I’m a Software Engineering student at Monash University in Melbourne. I like b
 > Best place to start: **Portfolio hub** → [portfolio](https://github.com/matthewcks-prog/portfolio)
 
 **🚀 Lock‑in (Flagship, in progress)**  
-A study‑focused browser extension + backend services (notes, auth, AI/chat features) designed to provide students with ai chat bot, notes taking, tracking tasks and study tools all in the same place.
+A study‑focused browser extension + backend services (notes, auth, AI/chat features) designed to provide students with ai chat bot, notes taking, tasks/reminders and study tools all in their browser.
 
 - **Focus**: architecture, reliability, security/privacy, UX  
 - **Tech**: TypeScript, React, Node.js, Postgres/Supabase, GitHub Actions  
@@ -15,8 +15,8 @@ A study‑focused browser extension + backend services (notes, auth, AI/chat fea
 - **Case study / portfolio**: `projects/lock-in.md` (see portfolio repo)  
 - **Status**: actively being built and refined
 
-### 🧠 LMS Platform (University / Personal)
-Code Venture, learning platform with role-based access and progress tracking.
+### 🧠 CodeVenture (LMS Platform)**  
+Python learning platform with interactive lessons (youtube links), auto‑graded quizzes/challenges, a browser‑based Python playground, and progress tracking.
 - **Focus**: backend design, data modelling, maintainable feature structure  
 - **Tech**: Django 4.2, PostgreSQL, Django templates, HTML/CSS/JS, Google OAuth, GitHub Actions  
 - **Repo**: `https://github.com/matthewcks-prog/CodeVenture`  
