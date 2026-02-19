@@ -1,34 +1,49 @@
 # Hi, I’m Matthew 👋
 
-I’m a Software Engineering student from Monash University in Melbourne. I build **reliable, scalable** software with strong engineering fundamentals: clean architecture, testing, and practical product thinking.
+I’m a Software Engineering student at Monash University in Melbourne. I like building **pragmatic, production‑minded software**: cleanly architected, well‑tested, and shaped around real user needs.
 
 ## Featured work
 > Best place to start: **Portfolio hub** → [portfolio](https://github.com/matthewcks-prog/portfolio)
 
-### 🚀 Lock-in (Flagship)
-A study-focused browser extension + backend services (auth, notes, chat/AI features) designed with production-quality patterns.
-- **Focus:** architecture, reliability, security/privacy, UX
-- **Tech:** TypeScript, React, Node.js, Postgres/Supabase, CI/CD
-- Repo: <https://github.com/matthewcks-prog/Lock-in>
-- Docs: <LINK>
-- Demo: <LINK OR GIF>
+**🚀 Lock‑in (Flagship, in progress)**  
+A study‑focused browser extension + backend services (notes, auth, AI/chat features) designed to provide students with ai chat bot, notes taking, tracking tasks and study tools all in the same place.
+
+- **Focus**: architecture, reliability, security/privacy, UX  
+- **Tech**: TypeScript, React, Node.js, Postgres/Supabase, GitHub Actions  
+- **Highlights**: modular architecture, strong validation and error handling, security‑minded defaults, testing + CI quality gates  
+- **Repo**: `https://github.com/matthewcks-prog/Lock-in`  
+- **Case study / portfolio**: `projects/lock-in.md` (see portfolio repo)  
+- **Status**: actively being built and refined
 
 ### 🧠 LMS Platform (University / Personal)
 Code Venture, learning platform with role-based access and progress tracking.
-- **Focus:** backend design, data modeling, maintainable feature structure
-- **Tech:** <TECH>
-- Repo: https://github.com/matthewcks-prog/CodeVenture
+- **Focus**: backend design, data modelling, maintainable feature structure  
+- **Tech**: Django 4.2, PostgreSQL, Django templates, HTML/CSS/JS, Google OAuth, GitHub Actions  
+- **Repo**: `https://github.com/matthewcks-prog/CodeVenture`  
+- **Live**: `https://codeventure-ez4m.onrender.com`
 
-### 📊 Data / Cloud Projects
-- Data Visualisation project in Tableu
-- Repo: <https://github.com/matthewcks-prog/data-viz-vega-lite>
+### 📊 Data visualisation projects**  
+Storytelling dashboards and data pipelines, focused on clear communication and performance.
 
-## Skills (with proof)
-- **Frontend (UI/UX):** React, TypeScript → see: Lock-in UI, dashboards
-- **Backend & APIs:** Node.js, REST, auth patterns → see: Lock-in backend / LMS
-- **Databases:** Postgres, relational modeling → see: LMS schema, analytics projects
-- **Testing & Quality:** unit/integration tests, CI gates → see: repos with CI badges
-- **Cloud/DevOps:** CI/CD, env separation, secrets hygiene → see: deployment docs
+- **Vega‑Lite dashboards**: fully client‑side interactive visuals  
+  - Repo: `https://github.com/matthewcks-prog/data-viz-vega-lite`  
+  - Live: `https://matthewcks-prog.github.io/data-viz-vega-lite/`  
+- **Tableau dashboards**: multi‑view, parameterised dashboards with custom tooltips  
+  - Tableau: `https://public.tableau.com/app/profile/matthew.chung.kai.shing/viz/DataVisualisation1_17570904026250/Datavisualization1dashboard?publish=yes`
+
+---
+
+### Skills (with proof)
+- **Frontend (UI/UX)**: React, TypeScript  
+  - See: Lock‑in UI, data‑viz dashboards  
+- **Backend & APIs**: Node.js, Django, REST, auth patterns  
+  - See: Lock‑in backend, CodeVenture  
+- **Databases**: PostgreSQL, relational modelling, query design  
+  - See: LMS schema, analytics/data‑viz projects  
+- **Testing & Quality**: unit/integration tests, coverage, CI gates  
+  - See: repos with CI pipelines and badges  
+- **Cloud / DevOps**: CI/CD, environment‑based config, secrets hygiene  
+  - See: deployment configs and docs across projects
 
 ## What I care about
 - Scalable, modular architecture (SOLID, separation of concerns)
