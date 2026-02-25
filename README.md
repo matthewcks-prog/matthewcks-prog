@@ -52,7 +52,7 @@ Storytelling dashboards and data pipelines, focused on clear communication and p
 
 ## Awards & recognition
 
-- **Monash Engineering Achievement Scholarship** – merit‑based scholarship awarded by Monash University ([details](https://www.monash.com/study/fees-scholarships/scholarships/find-a-scholarship/tne-engineering-achievement-scholarship-6251))  
+- **Monash Engineering Achievement Scholarship** – merit‑based scholarship awarded by Monash University ([details](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/tne-engineering-achievement-scholarship-6251)  
 - **CodeVenture commendation** – formal commendation letter from Monash University for my work on the CodeVenture LMS in FIT1056 ([view letter](https://drive.google.com/file/d/1krWQwxm0iuOw_qYn4SLptuMpsn16l7DQ/view?usp=sharing))
 
 ## What I care about
