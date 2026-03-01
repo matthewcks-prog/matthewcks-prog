@@ -12,7 +12,8 @@ A study‑focused browser extension + backend services (notes, auth, AI/chat fea
 - **Tech**: TypeScript, React, Node.js, Postgres/Supabase, GitHub Actions  
 - **Highlights**: modular architecture, strong validation and error handling, security‑minded defaults, testing + CI quality gates  
 - **Repo**: `https://github.com/matthewcks-prog/Lock-in`  
-- **Case study**: [Lock-in.md](https://github.com/matthewcks-prog/portfolio/blob/main/projects/lock-in.md)
+- **Demo**: 
+- **Case study**:`https://github.com/matthewcks-prog/portfolio/blob/main/projects/lock-in.md`
   
 - **Status**: actively being built and refined
 
