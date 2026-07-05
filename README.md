@@ -27,7 +27,7 @@ Java Swing board-game implementation built to demonstrate object-oriented design
 - **Focus:** OOP, SOLID principles, layered architecture, domain modelling, design patterns, testable game rules
 - **Tech:** Java 25, Swing, Maven, JUnit, Checkstyle, Javadoc
 - **Highlights:** `domain/application/infrastructure/ui` separation, Command/Observer/Strategy/Factory patterns, immutable game snapshots, architecture boundary tests, 106 automated tests, ADRs
-- [Repo](https://github.com/matthewcks-prog/Ticket-to-Ride-Game) · [Case study](https://github.com/matthewcks-prog/portfolio/blob/main/projects/ticket-to-ride-game.md)
+- [Repo](https://github.com/matthewcks-prog/Ticket-to-Ride-Game) · [Demo](https://drive.google.com/file/d/16gYKUoiqWr433hspgT5yW5bvSiqttjQ8/view?usp=drive_link) · [Case study](https://github.com/matthewcks-prog/portfolio/blob/main/projects/ticket-to-ride-game.md)
 
 ### 🌐 mini-fabric-lab
 Containerized spine-leaf network fabric lab built with topology-as-code, configs-as-code, and verification-as-code.
