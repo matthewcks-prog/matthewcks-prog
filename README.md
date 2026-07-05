@@ -27,8 +27,8 @@ Local-first Streamlit dashboard for AI-assisted satellite damage triage using xB
 
 - **Focus:** computer vision, geospatial data processing, ML evaluation, Streamlit dashboards, responsible AI
 - **Tech:** Python, Streamlit, PyTorch, TorchVision, scikit-learn, pandas, NumPy, OpenCV, GeoPandas, Shapely, Rasterio
-- **Highlights:** xBD scene pairing, building-polygon parsing, paired crop extraction, baseline damage classifier, cached predictions, confidence/review flags, dashboard artifact resolver, unit tests, Ruff/mypy checks
-- [Repo](https://github.com/matthewchungkaishing/DisasterSight) · [Case study](https://github.com/matthewcks-prog/portfolio/blob/main/projects/disastersight.md)
+- **Highlights:** xBD scene pairing, building-polygon parsing, paired crop extraction, baseline damage classifier, cached predictions, confidence/review flags, browser-captured dashboard preview screenshots, unit tests, Ruff/mypy checks
+- [Repo](https://github.com/matthewchungkaishing/DisasterSight) · [Preview screenshots](https://github.com/matthewchungkaishing/DisasterSight#dashboard-preview) · [Case study](https://github.com/matthewcks-prog/portfolio/blob/main/projects/disastersight.md)
 
 ### 🎲 Ticket to Ride: London
 Java Swing board-game implementation built to demonstrate object-oriented design, clean architecture, and maintainable software engineering.
