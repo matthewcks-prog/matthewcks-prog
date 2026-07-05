@@ -8,8 +8,9 @@ Best place to start: [Portfolio](https://github.com/matthewcks-prog/portfolio)
 
 - **Languages:** Java, TypeScript, Python, SQL, HTML/CSS/JavaScript
 - **Backend & data:** Node.js, Express, Django, PostgreSQL, Supabase/Postgres, REST APIs, OAuth, pgvector
+- **AI/ML & geospatial:** PyTorch, TorchVision, scikit-learn, pandas, NumPy, Streamlit, GeoPandas, Rasterio, OpenCV
 - **Frontend & desktop:** React, Chrome Extensions, Java Swing, Vega-Lite, Tableau, Figma
-- **Quality & delivery:** JUnit, pytest, GitHub Actions, CI/CD, Docker, Checkstyle, Trivy, Sentry, ADRs
+- **Quality & delivery:** JUnit, pytest, unittest, GitHub Actions, CI/CD, Docker, Checkstyle, Ruff, Trivy, Sentry, ADRs
 
 ## Featured projects
 
@@ -20,6 +21,14 @@ Study-focused browser extension + backend services for AI chat, notes, tasks, tr
 - **Tech:** TypeScript, React, Node.js, Express, Supabase/Postgres, pgvector, Docker, Azure Container Apps, GitHub Actions
 - **Highlights:** layered monorepo, typed API boundaries, Zod validation, RLS, idempotency, CI quality gates, Trivy security scanning, Sentry logging
 - [Repo](https://github.com/matthewcks-prog/Lock-in) · [Demo](https://drive.google.com/file/d/1BxJfHWy5cRs7nm8L6mrWar0dgdRflV-M/view?usp=sharing) · [Case study](https://github.com/matthewcks-prog/portfolio/blob/main/projects/lock-in.md)
+
+### 🛰️ DisasterSight
+Local-first Streamlit dashboard for AI-assisted satellite damage triage using xBD/xView2 pre-disaster and post-disaster imagery.
+
+- **Focus:** computer vision, geospatial data processing, ML evaluation, Streamlit dashboards, responsible AI
+- **Tech:** Python, Streamlit, PyTorch, TorchVision, scikit-learn, pandas, NumPy, OpenCV, GeoPandas, Shapely, Rasterio
+- **Highlights:** xBD scene pairing, building-polygon parsing, paired crop extraction, baseline damage classifier, cached predictions, confidence/review flags, dashboard artifact resolver, unit tests, Ruff/mypy checks
+- [Repo](https://github.com/matthewchungkaishing/DisasterSight) · [Case study](https://github.com/matthewcks-prog/portfolio/blob/main/projects/disastersight.md)
 
 ### 🎲 Ticket to Ride: London
 Java Swing board-game implementation built to demonstrate object-oriented design, clean architecture, and maintainable software engineering.
